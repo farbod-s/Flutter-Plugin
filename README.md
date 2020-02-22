@@ -1,6 +1,6 @@
 # Flutter-Plugin
 
-follow steps in [Developing packages & plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages) from flutter documents:
+follow steps in [Developing packages & plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages) from flutter documentations:
 
 ## Install
 ```bash
@@ -32,7 +32,7 @@ environment:
 ```
 
 ## Publish
-to publlish in [pub.dev](https://pub.dev/)
+to publlish in [pub.dev](https://pub.dev/), for more info visit [publishing packages](https://dart.dev/tools/pub/publishing) from flutter documentations.
 
 test publish:
 ```bash
