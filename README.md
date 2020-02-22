@@ -1,6 +1,6 @@
 # Flutter-Plugin
 
-follow steps in [Developing packages & plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages) from flutter documentations:
+follow steps in [developing packages & plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages) from flutter documentations:
 
 ## Install
 ```bash
@@ -32,7 +32,7 @@ environment:
 ```
 
 ## Publish
-to publlish in [pub.dev](https://pub.dev/), for more info visit [publishing packages](https://dart.dev/tools/pub/publishing) from flutter documentations.
+to publish in [pub.dev](https://pub.dev/), for more info visit [publishing packages](https://dart.dev/tools/pub/publishing) from flutter documentations.
 
 test publish:
 ```bash
@@ -45,7 +45,7 @@ $ flutter pub publish
 ```
 
 ## Platform-specific codes
-follow this document about [Writing custom platform-specific code](https://flutter.dev/docs/development/platform-integration/platform-channels).
+follow this document about [writing custom platform-specific code](https://flutter.dev/docs/development/platform-integration/platform-channels).
 
 ## Samples
-there is a [github repository](https://github.com/flutter/plugins/tree/master/packages) to read about flutter packages.
+there is a [github repository](https://github.com/flutter/plugins/tree/master/packages) for best practice flutter packages.
