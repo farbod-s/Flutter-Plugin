@@ -1,5 +1,7 @@
 # Flutter-Plugin
 
+follow steps in [Developing packages & plugins](https://flutter.dev/docs/development/packages-and-plugins/developing-packages) from flutter documents:
+
 ## Install
 ```bash
 $ git clone https://github.com/flutter/flutter.git -b stable
