@@ -43,3 +43,9 @@ actual publish:
 ```bash
 $ flutter pub publish
 ```
+
+## Platform-specific codes
+follow this document about [Writing custom platform-specific code](https://flutter.dev/docs/development/platform-integration/platform-channels).
+
+## Samples
+there is a [github repository](https://github.com/flutter/plugins/tree/master/packages) to read about flutter packages.
