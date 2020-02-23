@@ -48,5 +48,5 @@ $ flutter pub publish
 follow this document about [writing custom platform-specific code](https://flutter.dev/docs/development/platform-integration/platform-channels).
 
 ## Packages and Samples
-there is a [github repository](https://github.com/flutter/plugins/tree/master/packages) for best practice flutter packages.
-there is a [github repository](https://github.com/flutter/flutter/tree/master/examples) for best practice flutter samples.
+- there is a [github repository](https://github.com/flutter/plugins/tree/master/packages) for best practice flutter packages.
+- there is a [github repository](https://github.com/flutter/flutter/tree/master/examples) for best practice flutter samples.
